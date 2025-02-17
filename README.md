@@ -1,4 +1,3 @@
-# bertug_vatansever
 
 ![Screenshot_1739799801](https://github.com/user-attachments/assets/55d8cad6-6723-4cda-8084-dc205aeeecdf)
 
